@@ -13,7 +13,8 @@
         <article @if ($detailed) id="{{ $slug }}" @endif
             class="reveal group rounded-2xl border border-ink-100 bg-white p-6 shadow-card transition-all duration-300 hover:-translate-y-1 hover:border-brand-300 hover:shadow-soft {{ $detailed ? 'sm:p-8 scroll-mt-28' : '' }}">
 
-            <span class="card-icon group-hover:bg-brand-600 group-hover:text-white">
+            <div class="{{ $detailed ? 'flex items-center gap-4 sm:gap-5' : '' }}">
+            <span class="card-icon {{ $detailed ? 'h-16 w-16 rounded-2xl [&_svg]:h-8 [&_svg]:w-8' : '' }} group-hover:bg-brand-600 group-hover:text-white">
                 @switch($slug)
                     @case('bookkeeping')
                         <svg class="h-6 w-6" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"
@@ -128,8 +129,9 @@
                 @endswitch
             </span>
 
-            <h3 class="mt-5 text-lg font-extrabold text-ink-950">{{ __('app.svc_' . $slug . '_title') }}</h3>
-            <p class="mt-2.5 text-[15px] leading-relaxed text-ink-600">{{ __('app.svc_' . $slug . '_short') }}</p>
+            <h3 class="{{ $detailed ? 'text-2xl leading-tight sm:text-[26px]' : 'mt-5 text-lg' }} font-extrabold text-ink-950">{{ __('app.svc_' . $slug . '_title') }}</h3>
+            </div>
+            <p class="{{ $detailed ? 'mt-5' : 'mt-2.5' }} text-[15px] leading-relaxed text-ink-600">{{ __('app.svc_' . $slug . '_short') }}</p>
 
             @if ($detailed)
                 <p class="mt-5 text-[13px] font-extrabold uppercase tracking-wide text-brand-700">
