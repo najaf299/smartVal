@@ -3,17 +3,9 @@
 
         {{-- Brand --}}
         <div class="lg:col-span-4">
-            <a href="{{ route('home') }}" class="inline-flex items-center gap-3" aria-label="{{ __('app.brand_full') }}">
-                <svg class="h-10 w-10" viewBox="0 0 64 64" fill="none" aria-hidden="true">
-                    <rect x="18" y="4" width="11" height="13" rx="1.5" fill="#e5a63f" />
-                    <rect x="34" y="4" width="13" height="32" rx="1.5" fill="#e5a63f" />
-                    <path d="M6 20h11v20a5 5 0 0 0 5 5h25v11H19A13 13 0 0 1 6 43V20Z" fill="#fff" />
-                </svg>
-                <span class="leading-tight">
-                    <span class="block text-lg font-extrabold tracking-wide text-white">SMART VAL</span>
-                    <span class="block text-[11px] font-bold uppercase tracking-[0.2em] text-brand-400">Redovisning
-                        Sverige AB</span>
-                </span>
+            <a href="{{ route('home') }}" class="inline-flex" aria-label="{{ __('app.brand_full') }}">
+                <img src="{{ asset('assets/images/logo-footer.png') }}" alt="{{ __('app.brand_full') }}"
+                    class="h-14 w-auto" width="243" height="90">
             </a>
 
             <p class="mt-5 max-w-sm text-sm leading-relaxed">{{ __('app.footer_tagline') }}</p>

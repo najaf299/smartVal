@@ -42,7 +42,7 @@
     <div class="container-x flex h-18 items-center justify-between gap-6 py-3">
 
         <a href="{{ route('home') }}" class="shrink-0" aria-label="{{ __('app.brand_full') }}">
-            <img src="{{ asset('assets/images/logo_final.png') }}" alt="{{ __('app.brand_full') }}"
+            <img src="{{ asset('assets/images/logo.png') }}" alt="{{ __('app.brand_full') }}"
                 class="h-12 w-auto sm:h-14" width="243" height="90">
         </a>
 
