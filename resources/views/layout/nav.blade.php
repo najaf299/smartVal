@@ -43,7 +43,7 @@
 
         <a href="{{ route('home') }}" class="shrink-0" aria-label="{{ __('app.brand_full') }}">
             <img src="{{ asset('assets/images/logo_final.png') }}" alt="{{ __('app.brand_full') }}"
-                class="h-11 w-auto sm:h-12" width="355" height="90">
+                class="h-12 w-auto sm:h-14" width="243" height="90">
         </a>
 
         <nav class="hidden lg:flex items-center gap-1 font-bold text-[15px]" aria-label="Main">

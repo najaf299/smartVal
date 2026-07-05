@@ -4,52 +4,32 @@
 <meta charset="utf-8">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap" rel="stylesheet">
 <style>
   :root{
-    --ink:#1e1e1e;        /* emblem + title, neutral near-black (matches favicon mark) */
-    --accent:#34a157;     /* accent square — GREEN (main) */
-    --sub:#238445;        /* subtitle text — brand green (main) */
+    --ink:#1e1e1e;        /* emblem + title, near-black (matches favicon mark) */
+    --accent:#34a157;     /* accent square/dot */
+    --sub:#238445;        /* subtitle text */
   }
   html,body{margin:0;padding:0;background:transparent;}
-  #logo{
-    display:inline-flex;
-    align-items:center;
-    gap:24px;
-    padding:24px 30px;
-    font-family:'Manrope',sans-serif;
-  }
+  #logo{display:inline-flex;align-items:center;gap:24px;padding:28px 34px;font-family:'Poppins',sans-serif;}
   /* Emblem uses the exact geometry of the site favicon (public/favicon.svg) */
   #logo svg{height:150px;width:auto;display:block;}
-  .wordmark{display:flex;flex-direction:column;justify-content:center;line-height:1;}
-  .title{
-    font-weight:800;
-    font-size:96px;
-    letter-spacing:-2px;
-    color:var(--ink);
-  }
-  .sub{
-    font-weight:700;
-    font-size:45px;
-    letter-spacing:0.5px;
-    color:var(--sub);
-    margin-top:10px;
-  }
+  .wm{display:flex;flex-direction:column;line-height:1;}
+  .title{font-weight:700;font-size:82px;letter-spacing:-1.5px;color:var(--ink);}
+  .sub{font-weight:600;font-size:50px;letter-spacing:.2px;color:var(--sub);line-height:1.07;margin-top:9px;}
 </style>
 </head>
 <body>
   <div id="logo">
     <svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-      <!-- accent square (upper-centre-left) -->
       <rect x="105" y="10" width="60" height="76" fill="var(--accent)"/>
-      <!-- tall upright (right) -->
       <rect x="200" y="0" width="68" height="200" fill="var(--ink)"/>
-      <!-- rounded L / hook (left + bottom) -->
       <path d="M0 95 H80 V220 H275 V296 H70 Q0 296 0 226 Z" fill="var(--ink)"/>
     </svg>
-    <div class="wordmark">
+    <div class="wm">
       <div class="title">Smart Val</div>
-      <div class="sub">Redovisning Sverige AB</div>
+      <div class="sub">Redovisning<br>Sverige AB</div>
     </div>
   </div>
 </body>
