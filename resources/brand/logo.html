@@ -7,19 +7,20 @@
 <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --ink:#15221c;      /* near-black, theme ink-950 undertone */
-    --green:#34a157;    /* brand-500 accent square */
-    --green-text:#238445; /* brand-600 subtitle text */
+    --ink:#1e1e1e;        /* emblem + title, neutral near-black (matches favicon mark) */
+    --accent:#34a157;     /* accent square — GREEN (main) */
+    --sub:#238445;        /* subtitle text — brand green (main) */
   }
   html,body{margin:0;padding:0;background:transparent;}
   #logo{
     display:inline-flex;
     align-items:center;
-    gap:26px;
+    gap:24px;
     padding:24px 30px;
     font-family:'Manrope',sans-serif;
   }
-  #logo svg{height:158px;width:auto;display:block;}
+  /* Emblem uses the exact geometry of the site favicon (public/favicon.svg) */
+  #logo svg{height:150px;width:auto;display:block;}
   .wordmark{display:flex;flex-direction:column;justify-content:center;line-height:1;}
   .title{
     font-weight:800;
@@ -31,21 +32,20 @@
     font-weight:700;
     font-size:45px;
     letter-spacing:0.5px;
-    color:var(--green-text);
+    color:var(--sub);
     margin-top:10px;
   }
 </style>
 </head>
 <body>
   <div id="logo">
-    <svg viewBox="0 0 184 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-      <!-- green accent square (top-left) -->
-      <rect x="14" y="10" width="56" height="56" rx="9" fill="var(--green)"/>
-      <!-- tall right upright -->
-      <rect x="120" y="10" width="52" height="180" rx="11" fill="var(--ink)"/>
-      <!-- black L: left bar + bottom foot -->
-      <rect x="14" y="78" width="56" height="112" rx="11" fill="var(--ink)"/>
-      <rect x="14" y="134" width="100" height="56" rx="11" fill="var(--ink)"/>
+    <svg viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <!-- accent square (upper-centre-left) -->
+      <rect x="105" y="10" width="60" height="76" fill="var(--accent)"/>
+      <!-- tall upright (right) -->
+      <rect x="200" y="0" width="68" height="200" fill="var(--ink)"/>
+      <!-- rounded L / hook (left + bottom) -->
+      <path d="M0 95 H80 V220 H275 V296 H70 Q0 296 0 226 Z" fill="var(--ink)"/>
     </svg>
     <div class="wordmark">
       <div class="title">Smart Val</div>
