@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#15221c;      /* near-black, theme ink-950 undertone */
+    --green:#34a157;    /* brand-500 accent square */
+    --green-text:#238445; /* brand-600 subtitle text */
+  }
+  html,body{margin:0;padding:0;background:transparent;}
+  #logo{
+    display:inline-flex;
+    align-items:center;
+    gap:26px;
+    padding:24px 30px;
+    font-family:'Manrope',sans-serif;
+  }
+  #logo svg{height:158px;width:auto;display:block;}
+  .wordmark{display:flex;flex-direction:column;justify-content:center;line-height:1;}
+  .title{
+    font-weight:800;
+    font-size:96px;
+    letter-spacing:-2px;
+    color:var(--ink);
+  }
+  .sub{
+    font-weight:700;
+    font-size:45px;
+    letter-spacing:0.5px;
+    color:var(--green-text);
+    margin-top:10px;
+  }
+</style>
+</head>
+<body>
+  <div id="logo">
+    <svg viewBox="0 0 184 200" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
+      <!-- green accent square (top-left) -->
+      <rect x="14" y="10" width="56" height="56" rx="9" fill="var(--green)"/>
+      <!-- tall right upright -->
+      <rect x="120" y="10" width="52" height="180" rx="11" fill="var(--ink)"/>
+      <!-- black L: left bar + bottom foot -->
+      <rect x="14" y="78" width="56" height="112" rx="11" fill="var(--ink)"/>
+      <rect x="14" y="134" width="100" height="56" rx="11" fill="var(--ink)"/>
+    </svg>
+    <div class="wordmark">
+      <div class="title">Smart Val</div>
+      <div class="sub">Redovisning Sverige AB</div>
+    </div>
+  </div>
+</body>
+</html>
