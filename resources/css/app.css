@@ -8,18 +8,18 @@
 @theme {
     --font-sans: 'Manrope', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
 
-    /* Brand green — sampled from the Smart Val logo */
-    --color-brand-50: #f1faf3;
-    --color-brand-100: #ddf3e3;
-    --color-brand-200: #bde7ca;
-    --color-brand-300: #8dd4a6;
-    --color-brand-400: #57b97a;
-    --color-brand-500: #34a157;
-    --color-brand-600: #238445;
-    --color-brand-700: #1d6a39;
-    --color-brand-800: #1a5430;
-    --color-brand-900: #164529;
-    --color-brand-950: #0b2615;
+    /* Brand gold — sampled from the Smart Val logo (yellow theme) */
+    --color-brand-50: #fbf7ee;
+    --color-brand-100: #f5e9cc;
+    --color-brand-200: #ecd396;
+    --color-brand-300: #e0b85c;
+    --color-brand-400: #e5a63f;
+    --color-brand-500: #cf9026;
+    --color-brand-600: #b3761c;
+    --color-brand-700: #8f5c18;
+    --color-brand-800: #734a18;
+    --color-brand-900: #613e18;
+    --color-brand-950: #382109;
 
     /* Ink — near-black with a cool green undertone, from the logo mark */
     --color-ink-50: #f5f7f6;
