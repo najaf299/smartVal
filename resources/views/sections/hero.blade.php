@@ -62,9 +62,9 @@
 
         {{-- Visual --}}
         <div class="relative mx-auto w-full max-w-lg lg:max-w-none">
-            <div class="overflow-hidden rounded-3xl border border-ink-100 shadow-soft">
-                <img src="{{ asset('assets/images/bg_1.jpg') }}" alt="{{ __('app.brand_name') }}"
-                    class="aspect-[4/3] w-full object-cover" width="2000" height="1335" fetchpriority="high">
+            <div class="overflow-hidden rounded-3xl border border-ink-100 bg-brand-50 shadow-soft">
+                <img src="{{ asset('assets/images/illustrations/hero-bookkeeping.svg') }}" alt="{{ __('app.brand_name') }}"
+                    class="aspect-[4/3] w-full object-contain" width="960" height="439" fetchpriority="high">
             </div>
 
             {{-- Floating card: services --}}

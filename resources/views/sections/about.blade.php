@@ -37,10 +37,10 @@
                 </div>
 
                 <div class="reveal relative mx-auto w-full max-w-lg lg:max-w-none">
-                    <img src="{{ asset('assets/images/bg_3.jpg') }}" alt="{{ __('app.brand_full') }}"
-                        class="aspect-[4/3] w-full rounded-3xl object-cover shadow-soft" loading="lazy">
-                    <img src="{{ asset('assets/images/about-1.jpg') }}" alt=""
-                        class="absolute -bottom-8 -left-6 hidden w-44 rounded-2xl border-4 border-white object-cover shadow-card sm:block lg:w-52"
+                    <img src="{{ asset('assets/images/illustrations/about-team.svg') }}" alt="{{ __('app.brand_full') }}"
+                        class="aspect-[4/3] w-full rounded-3xl bg-brand-50 object-contain shadow-soft" loading="lazy">
+                    <img src="{{ asset('assets/images/illustrations/about-receipt.svg') }}" alt=""
+                        class="absolute -bottom-8 -left-6 hidden w-44 rounded-2xl border-4 border-white bg-white object-contain p-3 shadow-card sm:block lg:w-52"
                         loading="lazy">
                 </div>
             </div>

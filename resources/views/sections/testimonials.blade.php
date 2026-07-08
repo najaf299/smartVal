@@ -23,7 +23,7 @@
                     </blockquote>
 
                     <figcaption class="mt-6 flex items-center gap-3.5 border-t border-ink-100 pt-5">
-                        <img src="{{ asset('assets/images/person_' . $i . '.jpg') }}" alt=""
+                        <img src="{{ asset('assets/images/illustrations/avatar-' . $i . '.svg') }}" alt=""
                             class="h-11 w-11 rounded-full object-cover" width="96" height="96" loading="lazy">
                         <div>
                             <p class="text-sm font-extrabold text-ink-950">
