@@ -7,7 +7,7 @@
         </div>
 
         <dl class="reveal mt-12 grid grid-cols-2 gap-4 sm:gap-6 lg:grid-cols-4">
-            @foreach ([1, 2, 3, 4] as $i)
+            @foreach ([4, 3, 2, 1] as $i)
                 <div class="rounded-2xl border border-ink-100 bg-ink-50/60 p-6 text-center">
                     <dd class="text-3xl font-extrabold text-brand-600 sm:text-4xl">
                         {{ __('app.stat_' . $i . '_value') }}</dd>

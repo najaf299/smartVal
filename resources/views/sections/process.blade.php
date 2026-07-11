@@ -11,7 +11,7 @@
                 <li class="reveal relative text-center lg:text-left" style="transition-delay: {{ ($i - 1) * 90 }}ms">
                     @if ($i < 4)
                         <span
-                            class="absolute left-1/2 top-7 hidden h-0.5 w-full border-t-2 border-dashed border-brand-200 lg:block"
+                            class="absolute -right-6 left-14 top-7 hidden border-t-2 border-dashed border-brand-200 lg:block"
                             aria-hidden="true"></span>
                     @endif
 
