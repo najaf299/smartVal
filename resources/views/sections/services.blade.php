@@ -10,17 +10,20 @@
         'subtitle' => __('app.services_hero_text'),
     ])
 
-    {{-- Intro --}}
-    <section class="pt-16 sm:pt-20">
+    {{-- Intro + all 12 services, detailed cards with bullets + anchor ids --}}
+    <section class="py-16 sm:py-24">
         <div class="container-x">
             <div class="reveal mx-auto max-w-3xl text-center">
-                <p class="text-lg leading-relaxed text-ink-600">{{ __('app.services_page_intro') }}</p>
+                <span class="kicker justify-center">{{ __('app.services_kicker') }}</span>
+                <h2 class="section-title">{{ __('app.services_title') }}</h2>
+                <p class="mt-4 text-lg leading-relaxed text-ink-600">{{ __('app.services_page_intro') }}</p>
+            </div>
+
+            <div class="mt-12">
+                @include('sections.services-grid', ['detailed' => true])
             </div>
         </div>
     </section>
-
-    {{-- All 12 services, detailed cards with bullets + anchor ids --}}
-    @include('sections.services-grid', ['detailed' => true])
 
     @include('sections.process')
 
