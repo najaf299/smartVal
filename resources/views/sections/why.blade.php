@@ -6,7 +6,7 @@
             <div class="reveal relative order-last mx-auto w-full max-w-lg lg:order-first lg:max-w-none">
                 <div class="overflow-hidden rounded-3xl border border-ink-100 bg-brand-50 shadow-soft">
                     <img src="{{ asset('assets/images/illustrations/why-checked.svg') }}" alt="{{ __('app.why_title') }}"
-                        class="aspect-[5/6] w-full object-contain object-bottom sm:aspect-square" width="960" height="748"
+                        class="aspect-[5/6] w-full object-contain object-bottom sm:aspect-square" width="960" height="960"
                         loading="lazy">
                 </div>
 

@@ -1,1 +1,141 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="747.646" viewBox="0 0 960 747.646"><g transform="translate(-415.76 -95.103)"><g transform="translate(734.39 233.669)"><path d="M446.664,133.529a90.673,90.673,0,1,0-89.33,115.729l16,6.731L350.657,340.2l116.95,22.034,47.53-122.34s-68.993,1.292-86.605-22.492a90.575,90.575,0,0,0,18.131-83.871Z" transform="translate(-23.393 -33.558)" fill="#ed9da0"/><path d="M2,600.951l182.023,71.757L360.8,646.6,174.553,591.822Z" transform="translate(-2 -63.628)" fill="#090814"/><path d="M182.824,561.13,356.987,474.2l26.056,33.092L206.844,609c-4.091,13-14.279,25.142-28.885,32.471-25.556,12.824-54.877,6.074-65.49-15.076s1.5-48.691,27.057-61.515c14.606-7.329,30.427-8.241,43.3-3.749Z" transform="translate(-9.452 -68.914)" fill="#ed9da0"/><path d="M490.066,254.279s-16.995,88.136-76.339,86.31-48.388-43.823-48.388-43.823l-56.053,31.5S285,362.5,285,405.411L267.65,488.492,243,514.056l73.039,57.518,37.432-52.953L390.9,631.831l271.612,11.5-5.021-233.354s-14.608-112.3-76.69-135.121-90.737-20.576-90.737-20.576Z" transform="translate(-21.145 -49.771)" fill="#cf9026"/><path d="M337.154,93.732s-35.594,32.2-72.035,27.119S221.9,103.055,221.9,97.97c0,0,0,1.695,10.17,5.085l4.237-36.441s5.085,9.558,23.729,12.83c0,0-16.1-6.728,0-19.948,0,0,8.475,7.118,16.1,7.118,0,0,42.373-57.628,126.272-21.187V30.285l7.627,19.379,9.841-.856,9.651-.839S450.715,72.546,449.02,89.5s30.454,102.082-25.028,128.16c0,0,13.163-75.617-9.719-57.821s-37.288-10.17-37.288-10.17L337.155,93.732Z" transform="translate(-19.309 -30.285)" fill="#090814"/><path d="M334.175,591.715l194.612-4.053,9.413,66.89-202.8-9.293c-9.262,10-23.663,16.615-40,16.989-28.586.656-52.2-17.99-52.742-41.647s22.19-43.367,50.776-44.022c16.337-.375,31.027,5.571,40.738,15.137Z" transform="translate(-21.115 -77.821)" fill="#ed9da0"/><path d="M551.385,430.822s-6.391,40.171,12.782,53.866c0,0-6.391,49.3,9.13,64.822,0,0-28.522,1.155-22.934,16.1,0,0-41.888-6.968-36.41,10.378,0,0,38.764,46.525,29.425,76.672l126.695-6.372,14.14-72.95" transform="translate(-44.68 -65.139)" fill="#cf9026"/></g><path d="M663.871,475.219H553.4A15.538,15.538,0,0,1,537.88,459.7V293.689A15.538,15.538,0,0,1,553.4,278.168H663.871a15.538,15.538,0,0,1,15.521,15.521V459.7A15.538,15.538,0,0,1,663.871,475.219ZM553.4,279.994a13.71,13.71,0,0,0-13.695,13.695V459.7A13.71,13.71,0,0,0,553.4,473.393H663.871A13.71,13.71,0,0,0,677.566,459.7V293.689a13.71,13.71,0,0,0-13.695-13.695Z" transform="translate(-122.12 -56.921)" fill="#3f3d56"/><path d="M649.331,360.624H572.64a7.769,7.769,0,0,1-7.76-7.76V316.345a7.769,7.769,0,0,1,7.76-7.76h76.69a7.769,7.769,0,0,1,7.76,7.76v36.519A7.769,7.769,0,0,1,649.331,360.624Z" transform="translate(-124.47 -59.567)" fill="#cf9026"/><path d="M644.419,401.692H578.684a7.3,7.3,0,1,1,0-14.608h65.735a7.3,7.3,0,1,1,0,14.608Z" transform="translate(-125.035 -66.398)" fill="#ccc"/><path d="M644.419,431.692H578.684a7.3,7.3,0,1,1,0-14.608h65.735a7.3,7.3,0,1,1,0,14.608Z" transform="translate(-125.035 -69.009)" fill="#ccc"/><path d="M644.419,461.692H578.684a7.3,7.3,0,1,1,0-14.608h65.735a7.3,7.3,0,1,1,0,14.608Z" transform="translate(-125.035 -71.619)" fill="#ccc"/><path d="M958.871,577.219H848.4A15.538,15.538,0,0,1,832.88,561.7V395.689A15.538,15.538,0,0,1,848.4,380.168H958.871a15.538,15.538,0,0,1,15.521,15.521V561.7a15.538,15.538,0,0,1-15.521,15.521ZM848.4,381.994a13.71,13.71,0,0,0-13.695,13.695V561.7A13.71,13.71,0,0,0,848.4,575.393H958.871A13.71,13.71,0,0,0,972.566,561.7V395.689a13.71,13.71,0,0,0-13.695-13.695Z" transform="translate(-147.791 -65.797)" fill="#3f3d56"/><path d="M939.419,423.692H873.684a7.3,7.3,0,0,1,0-14.608h65.735a7.3,7.3,0,0,1,0,14.608Z" transform="translate(-150.706 -68.313)" fill="#ccc"/><path d="M939.419,453.692H873.684a7.3,7.3,0,0,1,0-14.608h65.735a7.3,7.3,0,0,1,0,14.608Z" transform="translate(-150.706 -70.923)" fill="#ccc"/><path d="M944.331,526.624H867.64a7.77,7.77,0,0,1-7.76-7.76V482.344a7.77,7.77,0,0,1,7.76-7.76h76.69a7.77,7.77,0,0,1,7.76,7.76v36.519A7.77,7.77,0,0,1,944.331,526.624Z" transform="translate(-150.14 -74.012)" fill="#e6e6e6"/><path d="M939.419,565.692H873.684a7.3,7.3,0,0,1,0-14.608h65.735a7.3,7.3,0,0,1,0,14.608Z" transform="translate(-150.706 -80.669)" fill="#ccc"/><path d="M884.871,294.223H774.4A15.538,15.538,0,0,1,758.88,278.7V175.689A15.538,15.538,0,0,1,774.4,160.168H884.871a15.538,15.538,0,0,1,15.521,15.521V278.7A15.538,15.538,0,0,1,884.871,294.223ZM774.4,161.994a13.71,13.71,0,0,0-13.695,13.695V278.7A13.71,13.71,0,0,0,774.4,292.4H884.871A13.71,13.71,0,0,0,898.566,278.7V175.689a13.71,13.71,0,0,0-13.695-13.695Z" transform="translate(-141.351 -46.652)" fill="#3f3d56"/><path d="M865.419,270.192H799.684a7.3,7.3,0,0,1,0-14.608h65.735a7.3,7.3,0,1,1,0,14.608Z" transform="translate(-144.266 -54.955)" fill="#ccc"/><path d="M865.419,240.192H799.684a7.3,7.3,0,0,1,0-14.608h65.735a7.3,7.3,0,1,1,0,14.608Z" transform="translate(-144.266 -52.345)" fill="#ccc"/><path d="M865.419,210.192H799.684a7.3,7.3,0,0,1,0-14.608h65.735a7.3,7.3,0,1,1,0,14.608Z" transform="translate(-144.266 -49.734)" fill="#ccc"/><circle cx="20.999" cy="20.999" r="20.999" transform="translate(527.143 204.66)" fill="#cf9026"/><path d="M679.921,290.252a2.178,2.178,0,0,1-1.31-.435l-.023-.018-4.935-3.778a2.192,2.192,0,0,1,2.667-3.481l3.2,2.451,7.554-9.851a2.192,2.192,0,0,1,3.074-.406l-.047.064.048-.063a2.195,2.195,0,0,1,.406,3.074L681.665,289.4a2.194,2.194,0,0,1-1.744.856Z" transform="translate(-133.86 -56.582)" fill="#fff"/><circle cx="20.999" cy="20.999" r="20.999" transform="translate(801.038 298.697)" fill="#3f3d56"/><path d="M979.921,393.252a2.177,2.177,0,0,1-1.31-.435l-.023-.018-4.935-3.778a2.192,2.192,0,1,1,2.667-3.481l3.2,2.451,7.554-9.851a2.192,2.192,0,0,1,3.074-.406l-.047.064.048-.063a2.195,2.195,0,0,1,.406,3.074L981.665,392.4A2.193,2.193,0,0,1,979.921,393.252Z" transform="translate(-159.966 -65.545)" fill="#fff"/><circle cx="20.999" cy="20.999" r="20.999" transform="translate(734.39 95.103)" fill="#3f3d56"/><path d="M906.921,170.252a2.178,2.178,0,0,1-1.31-.435l-.023-.018-4.935-3.778a2.192,2.192,0,0,1,2.667-3.481l3.2,2.451,7.554-9.851a2.192,2.192,0,0,1,3.074-.406l-.047.064.048-.063a2.195,2.195,0,0,1,.406,3.074L908.665,169.4A2.193,2.193,0,0,1,906.921,170.252Z" transform="translate(-153.613 -46.14)" fill="#fff"/></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="960" viewBox="0 0 960 960" role="img">
+  <defs>
+    <filter id="wShadowLg" x="-40%" y="-40%" width="180%" height="180%">
+      <feDropShadow dx="0" dy="14" stdDeviation="20" flood-color="#613e18" flood-opacity="0.16"/>
+    </filter>
+    <filter id="wShadowSm" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#613e18" flood-opacity="0.18"/>
+    </filter>
+    <path id="wSpark" d="M0,-9 C1.6,-2.2 2.2,-1.6 9,0 C2.2,1.6 1.6,2.2 0,9 C-1.6,2.2 -2.2,1.6 -9,0 C-2.2,-1.6 -1.6,-2.2 0,-9 Z"/>
+  </defs>
+
+  <!-- backdrop -->
+  <rect width="960" height="960" fill="#fbf7ee"/>
+  <ellipse cx="480" cy="580" rx="430" ry="350" fill="#f5e9cc" opacity="0.55"/>
+  <circle cx="120" cy="170" r="92" fill="none" stroke="#ecd396" stroke-width="2"/>
+  <circle cx="120" cy="170" r="64" fill="none" stroke="#ecd396" stroke-width="2" opacity="0.5"/>
+  <g fill="#ecd396" transform="translate(742,96)">
+    <circle r="3.2"/><circle cx="26" r="3.2"/><circle cx="52" r="3.2"/><circle cx="78" r="3.2"/><circle cx="104" r="3.2"/>
+    <circle cy="26" r="3.2"/><circle cx="26" cy="26" r="3.2"/><circle cx="52" cy="26" r="3.2"/><circle cx="78" cy="26" r="3.2"/><circle cx="104" cy="26" r="3.2"/>
+    <circle cy="52" r="3.2"/><circle cx="26" cy="52" r="3.2"/><circle cx="52" cy="52" r="3.2"/><circle cx="78" cy="52" r="3.2"/><circle cx="104" cy="52" r="3.2"/>
+    <circle cy="78" r="3.2"/><circle cx="26" cy="78" r="3.2"/><circle cx="52" cy="78" r="3.2"/><circle cx="78" cy="78" r="3.2"/><circle cx="104" cy="78" r="3.2"/>
+  </g>
+
+  <!-- dashed connectors -->
+  <path d="M700,382 C680,420 668,440 660,470" fill="none" stroke="#e0b85c" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="1 9"/>
+  <path d="M236,560 C258,590 272,606 288,624" fill="none" stroke="#e0b85c" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="1 9"/>
+
+  <!-- clipboard -->
+  <g filter="url(#wShadowLg)">
+    <rect x="250" y="250" width="460" height="630" rx="28" fill="#ffffff" stroke="#f5e9cc" stroke-width="1.5"/>
+  </g>
+  <g filter="url(#wShadowSm)">
+    <rect x="410" y="222" width="140" height="58" rx="18" fill="#cf9026"/>
+  </g>
+  <rect x="450" y="238" width="60" height="16" rx="8" fill="#fbf7ee"/>
+
+  <!-- title + progress -->
+  <rect x="300" y="322" width="190" height="15" rx="7.5" fill="#23292b"/>
+  <rect x="300" y="348" width="130" height="9" rx="4.5" fill="#cdd5d1"/>
+  <rect x="580" y="318" width="80" height="30" rx="15" fill="#f5e9cc"/>
+  <rect x="598" y="329" width="44" height="8" rx="4" fill="#b3761c"/>
+  <rect x="300" y="390" width="360" height="12" rx="6" fill="#f5e9cc"/>
+  <rect x="300" y="390" width="272" height="12" rx="6" fill="#cf9026"/>
+  <circle cx="572" cy="396" r="9" fill="#ffffff" stroke="#cf9026" stroke-width="3.5"/>
+
+  <!-- checklist rows -->
+  <g>
+    <rect x="290" y="430" width="380" height="84" rx="20" fill="#fbf7ee"/>
+    <circle cx="334" cy="472" r="18" fill="#cf9026"/>
+    <path d="M326,472 l6,6 13,-14" fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="368" y="456" width="180" height="11" rx="5.5" fill="#353e3a"/>
+    <rect x="368" y="476" width="120" height="8" rx="4" fill="#cdd5d1"/>
+    <rect x="596" y="462" width="48" height="20" rx="10" fill="#f5e9cc"/>
+    <rect x="608" y="469.5" width="24" height="5" rx="2.5" fill="#b3761c"/>
+  </g>
+  <g>
+    <rect x="290" y="528" width="380" height="84" rx="20" fill="#fbf7ee"/>
+    <circle cx="334" cy="570" r="18" fill="#cf9026"/>
+    <path d="M326,570 l6,6 13,-14" fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="368" y="554" width="150" height="11" rx="5.5" fill="#353e3a"/>
+    <rect x="368" y="574" width="132" height="8" rx="4" fill="#cdd5d1"/>
+    <rect x="596" y="560" width="48" height="20" rx="10" fill="#f5e9cc"/>
+    <rect x="608" y="567.5" width="24" height="5" rx="2.5" fill="#b3761c"/>
+  </g>
+  <g>
+    <rect x="290" y="626" width="380" height="84" rx="20" fill="#fbf7ee"/>
+    <circle cx="334" cy="668" r="18" fill="#cf9026"/>
+    <path d="M326,668 l6,6 13,-14" fill="none" stroke="#ffffff" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="368" y="652" width="196" height="11" rx="5.5" fill="#353e3a"/>
+    <rect x="368" y="672" width="104" height="8" rx="4" fill="#cdd5d1"/>
+    <rect x="596" y="658" width="48" height="20" rx="10" fill="#f5e9cc"/>
+    <rect x="608" y="665.5" width="24" height="5" rx="2.5" fill="#b3761c"/>
+  </g>
+  <g>
+    <rect x="290" y="724" width="380" height="84" rx="20" fill="#fbf7ee"/>
+    <circle cx="334" cy="766" r="18" fill="#ffffff" stroke="#f5e9cc" stroke-width="3.5"/>
+    <circle cx="334" cy="766" r="18" fill="none" stroke="#cf9026" stroke-width="3.5" stroke-linecap="round" stroke-dasharray="62.2 50.9" transform="rotate(-90 334 766)"/>
+    <rect x="368" y="750" width="164" height="11" rx="5.5" fill="#7c8d85"/>
+    <rect x="368" y="770" width="116" height="8" rx="4" fill="#cdd5d1"/>
+    <rect x="596" y="756" width="48" height="20" rx="10" fill="#e6eae8"/>
+    <rect x="608" y="763.5" width="24" height="5" rx="2.5" fill="#7c8d85"/>
+  </g>
+
+  <!-- ring stat card -->
+  <g filter="url(#wShadowSm)">
+    <circle cx="772" cy="292" r="84" fill="#ffffff" stroke="#f5e9cc" stroke-width="1.5"/>
+  </g>
+  <circle cx="772" cy="292" r="56" fill="none" stroke="#f5e9cc" stroke-width="14"/>
+  <circle cx="772" cy="292" r="56" fill="none" stroke="#cf9026" stroke-width="14" stroke-linecap="round" stroke-dasharray="299.1 52.7" transform="rotate(-90 772 292)"/>
+  <path d="M757,292 l10,10 20,-22" fill="none" stroke="#cf9026" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- shield chip -->
+  <g filter="url(#wShadowSm)">
+    <rect x="132" y="430" width="104" height="104" rx="26" fill="#ffffff" stroke="#f5e9cc" stroke-width="1.5"/>
+  </g>
+  <path d="M184,454 l24,10 v17 c0,15 -10,25 -24,30 c-14,-5 -24,-15 -24,-30 v-17 Z" fill="#cf9026"/>
+  <path d="M173,484 l8,8 15,-16" fill="none" stroke="#ffffff" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- calendar card -->
+  <g transform="translate(0,-36)">
+  <g filter="url(#wShadowSm)">
+    <rect x="120" y="690" width="230" height="196" rx="22" fill="#ffffff" stroke="#f5e9cc" stroke-width="1.5"/>
+  </g>
+  <path d="M142,690 h186 a22,22 0 0 1 22,22 v28 h-230 v-28 a22,22 0 0 1 22,-22 Z" fill="#cf9026"/>
+  <rect x="168" y="676" width="10" height="26" rx="5" fill="#8f5c18"/>
+  <rect x="292" y="676" width="10" height="26" rx="5" fill="#8f5c18"/>
+  <g>
+    <rect x="140" y="754" width="16" height="16" rx="5" fill="#f5e9cc"/>
+    <rect x="178" y="754" width="16" height="16" rx="5" fill="#f5e9cc"/>
+    <rect x="216" y="754" width="16" height="16" rx="5" fill="#f5e9cc"/>
+    <rect x="254" y="754" width="16" height="16" rx="5" fill="#f5e9cc"/>
+    <rect x="292" y="754" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="140" y="788" width="16" height="16" rx="5" fill="#f5e9cc"/>
+    <rect x="178" y="788" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="216" y="788" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="292" y="788" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="140" y="822" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="178" y="822" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="216" y="822" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="254" y="822" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="140" y="856" width="16" height="16" rx="5" fill="#e6eae8"/>
+    <rect x="178" y="856" width="16" height="16" rx="5" fill="#e6eae8"/>
+  </g>
+  <circle cx="262" cy="796" r="14" fill="#cf9026"/>
+  <path d="M256,796 l4.5,4.5 9,-10" fill="none" stroke="#ffffff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- clock chip -->
+  <g filter="url(#wShadowSm)">
+    <circle cx="806" cy="764" r="44" fill="#ffffff" stroke="#f5e9cc" stroke-width="1.5"/>
+  </g>
+  <circle cx="806" cy="764" r="28" fill="none" stroke="#f5e9cc" stroke-width="7"/>
+  <line x1="806" y1="764" x2="806" y2="747" stroke="#23292b" stroke-width="3.5" stroke-linecap="round"/>
+  <line x1="806" y1="764" x2="819" y2="764" stroke="#cf9026" stroke-width="3.5" stroke-linecap="round"/>
+  <circle cx="806" cy="764" r="3.5" fill="#cf9026"/>
+
+  <!-- sparkles -->
+  <use href="#wSpark" transform="translate(636,158)" fill="#e5a63f"/>
+  <use href="#wSpark" transform="translate(84,626) scale(0.75)" fill="#e0b85c"/>
+  <use href="#wSpark" transform="translate(898,566) scale(0.85)" fill="#e0b85c"/>
+</svg>
